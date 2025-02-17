@@ -1,7 +1,7 @@
 - 👋 Hi, I’m William Dogbey;
-- 👀 Cloud Computing && Security && Software Engineering;
+- 👀 ML/AI && Software Engineering;
 - 42 Quebec student;
-- 🌱 I’m currently learning the C programming language;
+- 🌱 I’m currently learning the ML;
 - 💞️ I’m looking to collaborate on anything related to TEC;
 - 📫 Reach me here: williamapepe@gmail.com;
 
